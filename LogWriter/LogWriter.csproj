@@ -5,4 +5,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="log_2019_02_25_15_19_41.log" />
+  </ItemGroup>
 </Project>
